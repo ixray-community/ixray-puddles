@@ -1,0 +1,45 @@
+[puddles_5]
+position= -100.137, -0.912, -306.207
+rotation = 0
+max_height = 0.300
+size_xz = 3.748, 6.407
+[puddles_6]
+position= -87.714, -0.952, -313.421
+rotation = 0
+max_height = 0.300
+size_xz = 3.080, 4.016
+[puddles_0]
+position= 59.632, -0.929, -262.508
+rotation = 0
+max_height = 0.300
+size_xz = 233.471, 429.661
+[puddles_1]
+position= 121.806, -3.165, 215.969
+rotation = 0
+max_height = 0.300
+size_xz = 1.798, 7.564
+[puddles_2]
+position= 254.143, -0.928, 181.106
+rotation = 0
+max_height = 0.300
+size_xz = 36.944, 62.004
+[puddles_3]
+position= 185.205, -27.664, -260.622
+rotation = 0
+max_height = 0.038
+size_xz = 52.396, 5.318
+[puddles_4]
+position= -28.809, -0.846, -338.508
+rotation = 0
+max_height = 0.300
+size_xz = 4.053, 5.422
+[puddles_7]
+position= 1.032, -0.837, -334.281
+rotation = 0
+max_height = 0.300
+size_xz = 22.557, 2.291
+[puddles_10]
+position= 0.000, 0.000, 0.000
+rotation = 0
+max_height = 0.300
+size_xz = 1.000, 1.000

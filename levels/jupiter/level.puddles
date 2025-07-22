@@ -23,11 +23,6 @@ position = 70.375, -2.110, 128.360
 rotation = -0.000
 max_height = 0.750
 size_xz = 9.608, 28.570
-[puddles_5]
-position = -46.871, 3.268, 182.907
-rotation = -0.000
-max_height = 0.150
-size_xz = 14.090, 31.708
 [puddles_7]
 position = -33.150, 0.494, 312.105
 rotation = -0.000
@@ -43,11 +38,6 @@ position = -326.268, -6.079, 217.714
 rotation = -0.000
 max_height = 2.386
 size_xz = 56.016, 46.660
-[puddles_10]
-position = -192.661, -4.988, 72.281
-rotation = -0.000
-max_height = 0.150
-size_xz = 22.226, 31.114
 [puddles_12]
 position = -343.048, 7.475, -64.508
 rotation = -0.000

@@ -2,6 +2,10 @@
 
 Full changelog of puddles addon
 
+## Release 2.1 (July 2025)
+
+- Removed broken puddles at Jupiter level (@WoWanDJ (MSR))
+
 ## Release 2.0 (July 2025)
 
 - Reworked puddles on original levels (@Drombeys, @WoWanDJ (MSR))
@@ -13,6 +17,10 @@ Full changelog of puddles addon
 ---
 
 Полный список изменений в аддоне на лужи
+
+## Релиз 2.1 (Июль 2025)
+
+- Удалены бракованные лужи на локации Юпитер (@WoWanDJ (MSR))
 
 ## Релиз 2.0 (Июль 2025)
 

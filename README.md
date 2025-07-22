@@ -1,4 +1,4 @@
-# 3D Puddles (ver 2.0) for IX-Ray Platform
+# 3D Puddles (ver 2.1) for IX-Ray Platform
 
 Addon that adds puddles to the levels
 
